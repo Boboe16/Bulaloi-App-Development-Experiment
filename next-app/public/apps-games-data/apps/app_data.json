@@ -1,0 +1,12 @@
+{
+    "appOrGame": "Game",
+    "appPicture": "Picture",
+    "appName": "Super Fun Game",
+    "appRating": "4.5",
+    "appDownloadLink": "http://youtube.com",
+    "appDescription": "An exciting adventure game.",
+    "appCategory": "Adventure",
+    "appVersion": "1.0.2",
+    "appRequirement": "Android 4.0+",
+    "appSize": "100MB"
+}
